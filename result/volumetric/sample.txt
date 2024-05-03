@@ -1,0 +1,1 @@
+mesh object is too big, please see result of mesh at https://www.kaggle.com/code/patrickamadeus/volumetric-mapping-2d-to-3d
